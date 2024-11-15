@@ -1,0 +1,575 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    /* menu start */
+    header{
+      padding: 0;
+    }
+    .menu{
+      justify-content: center;
+      padding: 4px 0px;
+      border: none; 
+      } 
+      .menu li a {
+        text-align: center;
+        margin: 0px;
+      
+      }
+
+            /* banner start */
+      .banner_h4 {
+        padding: 8px 0px;
+        margin: 70px 50px 0;
+        font-size: 14px;
+    }
+    .banner_h4 span {
+      font-size: 14px;
+      padding: 2px 6px;
+      
+    }
+    .banner_h1 {
+      margin: 14px 15px;
+      font-size: 45px;
+  }
+  .banner_h1 span{
+    font-size: 45px;
+  }
+  .banner_p{
+    margin: 0 22px;
+    font-size: 14px;
+    padding: 16px 0px 0;
+  }
+  .apps_bg{
+    margin: 20px 20px 0;
+    padding: 3px 3px 0 3px;
+
+  }
+  .banner_btn {
+    font-size: 12px;
+    width: 95px;
+    height: 35px;
+  }
+ .top_btn {
+      font-size: 14px;
+      width: 95px;
+  }
+  .email_input {
+    padding: 10px 0 10px 10px;
+}
+
+
+/* sponsor start */
+.spon_title {
+  font-size: 18px;
+}
+.sponsor{
+  padding: 60px 0 40px;
+}
+.spon_img {
+  padding: 20px 15px;
+  margin: 10px 0 0;
+  border-radius: 6px;
+}
+/* ai power start */
+.Pw_ai_title{
+  padding:0 ;
+  font-size: 20px;
+  line-height: 30px;
+}
+.p_ai_h4{
+  font-size: 16px;
+}
+.left_warp{
+  margin: 20px 30px;
+  padding: 0 16px ;
+}
+.p_ai_p{
+  padding: 0 0 15px;
+    font-size: 16px;
+}
+.pai_img img{
+  padding-bottom: 0px;
+
+}
+.pw_ai{
+  padding: 0 0 50px;
+}
+.pai_img{
+  padding: 30px;
+}
+
+/* seo effort */
+.seo_effort {
+  padding: 35px 25px;
+}
+
+.seo_titel_h2 {
+  font-size: 35px;
+}
+.seo_text_wp {
+  padding: 30px 0px 0 0;
+}
+/* pricing start */
+.price_wp{
+  height: 500px;
+}
+.pri_btn {
+  width: 200px;
+}
+.pricing {
+  padding: 40px 0;
+}
+
+.price_wp {
+  margin: 20px 30px;
+
+}
+.pri_t_p {
+  font-size: 16px;
+}
+.pri_t_h2 {
+  font-size: 35px;
+}
+.price_wp ul li p {
+  padding-top: 18px;
+}
+/* client start */
+.testi_h2 {
+  font-size: 16px;
+}
+.testi_h3 {
+  padding: 10px 0;
+  font-size: 14px;
+}
+
+.client {
+  padding: 10px 0 20px;
+}
+
+.testi_padd {
+  padding-top: 18px;
+}
+.testi_item {
+  padding: 15px;
+}
+.testi_img img {
+  padding: 10px;
+}
+/* subscribe start */
+.subscribes {
+  padding:0;
+
+}
+.subs_h2{
+  font-size: 35px;
+}
+.subs_btn_wp{
+  width: 100%;
+}
+.input_container {
+  margin-bottom: 8px;
+}
+.trial_info {
+  padding: 10px 0;
+  font-size: 14px;
+}
+/* footer */
+.ft_titel p {
+  padding: 20px 0 0 0;
+  margin: 0;
+}
+.ft_link ul li a {
+
+ margin-top: 5px;
+ }
+
+.footer_social a {
+  margin-left: 12px;
+}
+.ft_link h5 {
+  padding-top: 30px;
+}
+.footer_top{
+  padding: 30px 0 0px;
+  text-align: center;
+}
+footer{
+  text-align: center;
+}
+
+
+}
+
+
+
+
+
+
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+  
+  /* menu start */
+  header{
+    padding: 0;
+  }
+
+  .menu{
+    justify-content: center;
+    padding: 4px 0px;
+    border: none; 
+    } 
+    .menu li a {
+      text-align: center;
+      margin: 8px 0px;
+    
+    }
+      /* banner start */
+      .banner_h4 {
+        padding: 13px 0px;
+        margin: 80px 95px 0;
+        font-size: 16px;
+    }
+    .banner_h1 {
+      margin: 14px 14px;
+      font-size: 64px;
+  }
+  .banner_h1 span{
+    font-size: 64px;
+  }
+  .banner_p{
+    padding: 16px 60px 0;
+  }
+  .banner_h1 {
+    margin: 14px 20px;
+    font-size: 70px;
+}
+.banner_h1 span{
+  font-size: 70px;
+}
+/* sponsor start */
+.spon_title {
+  font-size: 20px;
+}
+.sponsor{
+  padding: 80px 0 60px;
+}
+.spon_img {
+  padding: 15px 20px;
+  margin: 15px 0 0;
+  border-radius: 6px;
+}
+/* ai power start */
+
+.Pw_ai_title{
+  padding:0 ;
+  font-size: 20px;
+}
+.p_ai_h4{
+  font-size: 14px;
+}
+.left_warp{
+  padding: 0 15px ;
+}
+.p_ai_p{
+    font-size: 14px;
+}
+.pai_img img{
+  padding-bottom: 25px;
+
+}
+.pw_ai{
+  padding: 0 0 50px;
+}
+/* seo effort */
+.seo_effort {
+  padding: 40px 0;
+}
+
+.seo_titel_h2 {
+  font-size: 44px;
+}
+.seo_text_wp {
+  padding: 30px 0px 0 0;
+}
+
+/* pricing start */
+.price_wp{
+  height: 500px;
+}
+.pri_t_p {
+  font-size: 16px;
+}
+.pri_btn {
+  width: 200px;
+}
+.pricing {
+  padding: 40px 0;
+}
+
+.price_wp {
+  margin: 30px 60px;
+
+}
+.pri_t_h2 {
+  font-size: 44px;
+}
+.price_wp ul li p {
+  padding-top: 18px;
+}
+/* client start */
+.testi_h2 {
+  font-size: 16px;
+}
+.testi_h3 {
+  padding: 5px 0;
+  font-size: 14px;
+}
+
+.client {
+  padding: 40px 0 40px;
+}
+
+.testi_padd {
+  padding-top: 18px;
+}
+.testi_item {
+  padding: 15px;
+}
+.testi_img img {
+  padding: 4px;
+}
+/* subscribe start */
+.subscribes {
+  padding: 90px 0 100px;
+
+}
+.subs_h2{
+  font-size: 44px;
+}
+/* subscribe start */
+.subscribes {
+  padding: 20px 0 0;
+}
+.subs_h2{
+  font-size: 48px;
+}
+.ft_titel p {
+  padding: 20px 0 0 0;
+  margin: 0;
+}
+.footer_social a {
+  margin-left: 12px;
+}
+.ft_link h5 {
+  padding-top: 30px;
+}
+
+
+
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+  /* header start */
+  header{
+    padding: 8px 0;
+   
+}
+  .menu {
+     padding: 5px 8px; 
+  }
+  .menu li a {
+    margin: 0px 2px;
+    font-size: 14px;
+  }
+  .top_btn{
+    font-size: 14px;
+  }
+  /* banner start */
+  .banner_h4 {
+    padding: 13px 0px;
+    margin: 90px 150px 0;
+    font-size: 18px;
+  }
+    .banner_h1 {
+      margin: 14px 80px;
+      font-size: 70px;
+  }
+  .banner_h1 span{
+    font-size: 70px;
+  }
+  .banner_p{
+    padding: 16px 150px 0;
+  }
+/* sponsor start */
+.spon_title {
+  font-size: 20px;
+}
+.sponsor{
+  padding: 80px 0 60px;
+}
+.spon_img {
+  padding: 15px 20px;
+  margin: 15px 0 0;
+  border-radius: 6px;
+}
+
+/* ai power start */
+.Pw_ai_title{
+  padding:0 0 20px ;
+  font-size: 20px;
+}
+.left_warp{
+  margin: 25px 20px;
+}
+/* seo effort */
+.seo_effort {
+  padding: 50px 0;
+}
+
+.seo_titel_h2 {
+  font-size: 54px;
+}
+.seo_text_wp {
+  padding: 35px 0px 0 0;
+}
+/* pricing start */
+.price_wp{
+  height: 500px;
+}
+.price_wp ul li p {
+  padding-top: 18px;
+}
+.pri_btn {
+  width: 160px;
+}
+.pricing {
+  padding: 40px 0;
+}
+.pri_t_h2 {
+  font-size: 48px;
+}
+/* client start */
+
+.client {
+  padding: 40px 0 50px;
+}
+
+.testi_padd {
+  padding-top: 18px;
+}
+/* subscribe start */
+.subscribes {
+  padding: 20px 0 0;
+}
+.subs_h2{
+  font-size: 48px;
+}
+.ft_titel p {
+  padding: 20px 0 30px 0;
+  margin: 0;
+}
+
+
+
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+  /* banner start */
+  .banner_h4 {
+  font-size: 18px;
+}
+/* ai power start */
+.Pw_ai_title{
+  padding:0 ;
+  font-size: 24px;
+}
+.p_ai_h4{
+  font-size: 14px;
+}
+.left_warp{
+  padding: 0 15px ;
+}
+.p_ai_p{
+    font-size: 14px;
+}
+.pai_img img{
+  padding-bottom: 25px;
+
+}
+
+/* seo effort */
+.seo_effort {
+  padding: 55px 0;
+}
+
+.seo_titel_h2 {
+  font-size: 56px;
+}
+/* pricing start */
+.pricing {
+  padding: 65px 0px;
+}
+/* client start */
+
+.client {
+  padding: 40px 0 80px;
+}
+/* subscribe start */
+.subscribes {
+  padding: 90px 0 100px;
+
+}
+/* footer */
+.ft_titel p {
+  margin: 20px 85px 0 0;
+}
+.subscribes {
+  padding: 10px 0 30px;
+}
+.footer_top {
+  margin-top: 0;
+
+
+}
+
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (mi-width: 1200px) and (max-width: 1399.98px) { 
+    
+
+  
+}
+
+/* Extra Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) { 
+  
+  /* banner start */
+  .banner_h4 {
+    padding: 14px 0px;
+    margin: 100px 90px 0;
+  }
+  .banner_h1 {
+    margin: 14px 4px;
+  }
+  .banner_p {
+    padding: 16px 65px 0;
+}
+  /* power ai start */
+  .left_warp{
+    padding: 25px 35px ;
+  }
+
+  /* client */
+  .client {
+    padding: 100px 0 110px;
+}
+.subscribes{
+   padding: 90px 0 100px;
+}
+
+}
